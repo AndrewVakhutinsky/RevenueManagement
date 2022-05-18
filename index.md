@@ -1,13 +1,11 @@
-<!---## Welcome to GitHub Pages
-
-
+<!---
 your comment goes here
 and here
 
 
 #### the comment above is not visible
 
-<!---You can use the [editor on GitHub](https://github.com/AndrewVakhutinsky/RevenueManagement/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.-->
+You can use the [editor on GitHub](https://github.com/AndrewVakhutinsky/RevenueManagement/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -42,7 +40,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
 -->
 # Hotel Revenue Management:  From Theory to Revenue
 The Workshop on Hotel Revenue Management:  From Theory to Revenue will be held in conjunction with the [23rd ACM Conference on Economics and Computation (EC 2022)](https://ec22.sigecom.org/) on Friday, July 15, 2022, in the hybrid mode. 
@@ -61,6 +58,7 @@ We plan a hybrid workshop consisting of five invited presentation followed by th
 - *Andrew Vakhutinsky, Jorge Rivero Perez, Jason Bryant*:  Joint price optimization and hotel room assignment problem
 -  *Pelin Pekgün, Valyn Perini*: Panel Discussion
 
+<!---
 
 The names, contact information, and short biographies of the organizers:  
 Andrew Vakhutinsky, andrew@vakhutinsky@oracle.com 
@@ -131,3 +129,5 @@ The hotel room assignment problem is an NP-hard problem that in some situations 
 
 Panel Discussion:
 Dr. Pelin Pekgün is an associate professor of management science in the Darla Moore School of Business at the University of South Carolina. She also serves as the Faculty Director for the Master of Science in Business Analytics program. Her research interests include applications of management science and operations research in pricing and revenue management, supply chain management, marketing/operations interface and humanitarian operations. Prior to joining academia, she led the operations research team in North America at JDA Software’s Pricing and Revenue Management Group, where she worked in various projects in retail, hospitality, passenger travel and other leisure industries. Her work with the Carlson Rezidor Hotel Group on stay night price optimization was a finalist for the 2012 INFORMS Franz Edelman Award. She currently serves as an Associate Editor for Manufacturing & Service Operations Management, INFORMS Journal on Applied Analytics and Decision Sciences, and as the VP of Membership and Professional Recognition in the INFORMS Board of Directors. Dr. Pekgün holds M.S. and Ph.D. degrees in industrial and systems engineering from Georgia Institute of Technology, and B.S. and M.S. degrees in industrial engineering from Bogazici University in Istanbul, Turkey. 
+
+-->
