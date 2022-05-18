@@ -1,9 +1,9 @@
-## Welcome to GitHub Pages
+<!---## Welcome to GitHub Pages
 
-<!---
+
 your comment goes here
 and here
--->
+
 
 #### the comment above is not visible
 
@@ -43,7 +43,25 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-The title of the workshop:  “Hotel Revenue Management:  From Theory to Revenue”
+-->
+# Hotel Revenue Management:  From Theory to Revenue
+The Workshop on Hotel Revenue Management:  From Theory to Revenue will be held in conjunction with the [23rd ACM Conference on Economics and Computation (EC 2022)](https://ec22.sigecom.org/) on Friday, July 15, 2022, in the hybrid mode. 
+
+## Summary
+The workshop is intended to serve as a forum for discussing analytics of hospitality revenue management and how it can be applied to the open problems facing the hotel operators.
+
+We plan a hybrid workshop consisting of five invited presentation followed by the panel discussion
+
+## Preliminary program
+
+- *Zifeng Zhao*:  Threshold multinomial logit model and its application to demand prediction
+- *Ovunc Yilmaz*:  Strategic Behavior for Hotel Standby Upgrade Programs: Empirical Evidence and Pricing
+- *Aydin Alptekinoğlu, Natalia Kosilova*: Discrete-choice Predictive Model for the Hotel Room Upsell Process
+- *Sanghoon Cho, Danhyang Lee, Andrew Vakhutinsky*: Demand estimation with missing data on covariates: Imputation-based approach
+- *Andrew Vakhutinsky, Jorge Rivero Perez, Jason Bryant*:  Joint price optimization and hotel room assignment problem
+-  *Pelin Pekgün, Valyn Perini*: Panel Discussion
+
+
 The names, contact information, and short biographies of the organizers:  
 Andrew Vakhutinsky, andrew@vakhutinsky@oracle.com 
 Andrew Vakhutinsky is a Consulting Member of Technical Staff at Oracle Labs, Burlington, MA.  He works in the Modeling, Simulation, and Optimization Group, which develops technology and provides internal consulting to other Oracle groups on a broad range of topics.   In his current role, Andrew is working on various Operations Research applications for a number of Oracle’s Global Business Units delivering analytics solutions in the industry-specific verticals such as Retail, Hospitality, Utilities, Food and Beverage, Construction and Engineering.  These applications include predictive demand modeling, revenue and supply chain management, price optimization, recommender systems, assignment problems, project scheduling, and prognostic machine learning.   At the same time, Andrew is actively collaborating with academic researchers at several universities including University of South Carolina, University of Michigan, Penn State, and University of Colorado as a principal investigator on the Oracle-issued grants and as a mentor to the graduate students during their internships.  
